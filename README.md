@@ -88,7 +88,7 @@ Power BI Dashboard
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - SQL Data Cleaning & Transformation
 - Machine Learning using **Random Forest**
