@@ -51,7 +51,7 @@ An end-to-end **Data Analytics & Machine Learning** project that predicts custom
 ## Dashboard 1
 
 <p align="center">
-  <img src=""C:\Users\chira\OneDrive\Pictures\Screenshots\Screenshot 2026-07-12 171314.png"" width="900">
+  <img src="Screenshot 2026-07-12 171314.png" width="900">
 </p>
 
 ---
